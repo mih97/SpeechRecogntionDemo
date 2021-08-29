@@ -1,5 +1,7 @@
 {
   "name": "STT",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
